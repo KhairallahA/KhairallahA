@@ -1,7 +1,7 @@
 ### Hi there, I'm Khairallah AL-Awady 👋
 
 ## I'm a Software Engineer
-- 🔭 I’m currently working as Django Developer
+- 🔭 I’m currently working as Web3 Developer
 - 👀 I’m interested in Web Developement
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
