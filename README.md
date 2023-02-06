@@ -4,7 +4,7 @@
 - 🔭 I’m currently working as Web3 Developer
 - 👀 I’m interested in Web Developement
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to events
 
 
 ### Connect with me:
