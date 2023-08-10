@@ -1,13 +1,12 @@
 
 <h1 align="left" id="KhairallahA-title">:wave: Hey, I am Khairallah</h1>
   <p>
-      I am DevRel Engineer at <a href="https://nahmii.io">Nahmii</a> and I
-      am also building an educational platform to learn Web3 for FREE in UAE and Middle East called
+      I am building an educational platform to learn Web3 for FREE in UAE, Middle East and North Africa called
       <a href="https://web3arabs.com">Web3Arabs</a>
     </p>
     <p>
       If I am not coding, I am probably researching about a protocol, writing a
-      <a href="https://khairallah.hashnode.dev"> blog </a> post or watching a
+      <a href="https://khairallah.hashnode.dev"> blog</a> post or watching a
       movie.
     </p>
     <p>
