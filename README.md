@@ -12,7 +12,7 @@
     <p>
       You can find me on
       <a href="https://twitter.com/Eng_khairallah1">Twitter</a> and
-      <a href="https://www.linkedin.com/in/khairallah-al-awady-54026a1a1/">LinkedIn</a>. Don't be
+      <a href="https://www.linkedin.com/in/khairallah-w3a/">LinkedIn</a>. Don't be
       shy, say hi!
     </p>
 
