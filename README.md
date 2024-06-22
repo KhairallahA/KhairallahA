@@ -16,12 +16,11 @@
       shy, say hi!
     </p>
 
-## ✍️ Latest Articles 
-<!-- BLOG-POST-LIST:START -->
-- [Setup and Build Your First Web 3.0 Smart Contract With Nahmii, Remix, Solidity, and Metamask](https://khairallah.hashnode.dev/setup-and-build-your-first-web-30-smart-contract-with-nahmii-remix-solidity-and-metamask)
-- [10 Secrets in Google Search, You do not know them as a Software Developer!](https://khairallah.hashnode.dev/10-secrets-in-google-search-you-do-not-know-them-as-a-software-developer)
-- [Big O Notation & Time Complexity in Algorithm and Data Structure](https://khairallah.hashnode.dev/big-o-notation-and-time-complexity-in-algorithm-and-data-structure)
-<!-- BLOG-POST-LIST:END -->
+## &#x1f4c8; GitHub Stats
 
-
-
+<a href="https://github.com/KhairallahA/KhairallahA">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhairallahA&hide=java,typescript,javascript,php,html,tex,vue,css,python&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=2" />
+</a>
+<a href="https://github.com/KhairallahA/KhairallahA">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=KhairallahA&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+</a>
