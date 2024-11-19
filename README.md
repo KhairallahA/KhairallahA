@@ -17,9 +17,8 @@
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/KhairallahA/KhairallahA">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KhairallahA&theme=algolia" />
-</a>
-<a href="https://github.com/KhairallahA/KhairallahA">
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KhairallahA&theme=algolia)](https://git.io/streak-stats)
+
+<a href="https://github.com/KhairallahA/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=KhairallahA&show_icons=true&theme=algolia&count_private=true" alt="Martin's GitHub Stats" />
 </a>
